@@ -1,0 +1,2 @@
+# algorithm
+forcus alogorithm basic 
